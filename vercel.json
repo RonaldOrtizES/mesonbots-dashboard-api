@@ -1,6 +1,5 @@
 {
   "version": 2,
-  "buildCommand": "npm run build",
   "framework": null,
   "functions": {
     "api/index.ts": {
